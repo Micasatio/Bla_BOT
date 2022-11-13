@@ -1,4 +1,4 @@
-console.log('Iniciando | Starting 🚀🚀🚀')
+console.log('Iniciando siiii xd | Starting 🚀🚀🚀')
 
 import { join, dirname } from 'path'
 import { createRequire } from "module";
@@ -61,7 +61,7 @@ function start(file) {
   })
   p.on('exit', (_, code) => {
     isRunning = false
-    console.error('❎ㅤOcurrio un error inesperado:', code)
+    console.error('❎ la gran puta Ocurrio un error inesperado xd :', code)
     if (code === 0) return
     watchFile(args[0], () => {
       unwatchFile(args[0])
