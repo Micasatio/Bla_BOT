@@ -37,8 +37,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/Abiguelreyes75/ErikaBOT
-> cd ErikaBOT
+> git clone https://github.com/Micasatio/Bla_BOT
+> cd Bla_BOT
 > npm install
 > yarn install 
 > npm install
@@ -53,7 +53,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd ErikaBOT
+> cd Bla_BOT
 > npm start
 ```
 ----
@@ -61,10 +61,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
   ### SOLUCIONAR CODIGO QR QUE NO ESCANEA <img src="http://4.bp.blogspot.com/-mFQY5cKLkQ0/U0kwKQn5RzI/AAAAAAAADk0/FDOXxWZ9grU/s1600/QR-code-color.png" height="30px">
 ```bash
  
-  >cd ErikaBOT
+  >cd Bla_BOT
   >rm -rf BOT
-  >git clone https://github.com/Abiguelreyes75/ErikaBOT.git
-  >cd ErikaBOT
+  >git clone https://github.com/Micasatio/Bla_BOT
+  >cd Bla_BOT
   >yarn
   >npm start
   ```
@@ -74,7 +74,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd ErikaBOT
+> cd Bla_BOT
 > rm -rf session.data.json
 > npm start
 ```
