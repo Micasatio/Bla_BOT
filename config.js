@@ -4,14 +4,14 @@ import { fileURLToPath } from 'url'
 import fs from 'fs'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['16479546631','Erika-Bot', true],    
-  ['16474952517']
+  ['595983186566','Black_Bot', true],    
+  ['12163503324']
 
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = [] 
-global.prems = ['12364717916'], 
+global.mods = ['595983186566'] 
+global.prems = ['12163503324'], 
 
 global.APIs = { // API Prefix.
   
@@ -69,8 +69,8 @@ global.APIKeys = { // APIKey Here
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '🐈 𝓔𝓻𝓲𝓴𝓪𝓑𝓞𝓣'
-global.author = '𝓔𝓻𝓲𝓴𝓪𝓑𝓞𝓣'
+global.packname = 'Black_Bot😈'
+global.author = 'Black'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
@@ -90,22 +90,22 @@ global.Key360 = ['964f-0c75-7afc']
 global.vs = '1.0.25'
 global.version = vs
 
-global.gt = 'ErikaBot'
+global.gt = 'Black_Bot'
 global.gatabot = gt
 
 global.yt = 'MUY PRONTO'
 global.youtube = yt
 
-global.ig = 'https://www.instagram.com/abiguelreyes75'
+global.ig = ''
 global.gatadiosig = ig
 
 global.md = 'LOS AMO USUARIOS '
 global.gatabot = md
 
-global.nn = 'https://chat.whatsapp.com/IekXJwjl6tr6MtI8IyUW3dW'
+global.nn = 'https://chat.whatsapp.com/GxxpMawzPaW6MR0p2vH432'
 global.nngrupo = nn
 
-global.nnn = 'https://chat.whatsapp.com/IekXJwjl6tr6MtI8IyUW3d'
+global.nnn = 'https://chat.whatsapp.com/GxxpMawzPaW6MR0p2vH432'
 global.nnngrupo = nnn
 
 global.paypal = 'TE AMO '
@@ -142,8 +142,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = 'ErikaBOT'
-global.igfg = 'Erika-BOT'
+global.wm = 'Black_Bot'
+global.igfg = 'BlackBoT'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
